@@ -2,10 +2,11 @@
 
 **Autor**: `skill_documenting_recipe`
 **Makro na Porcję**:
-- **Węglowodany Netto**: 4g
-- **Tłuszcz**: 10g
-- **Białko**: 58g
-- **Kalorie**: ~350 kcal
+**Makro na Porcję**:
+- **Węglowodany Netto**: 6.5g
+- **Tłuszcz**: 22g (+ tłuszcz ze smażenia)
+- **Białko**: 63g
+- **Kalorie**: ~450 kcal
 
 ---
 
@@ -13,7 +14,8 @@
 
 | Składnik | Ilość |
 | :--- | :--- |
-| Pierś z kurczaka (pokrojona, usmażona) | 500 g |
+| Pierś z kurczaka (pokrojona) | 500 g |
+| Mąka Migdałowa (do panierowania) | 50 g |
 | Sos Sojowy (np. TaoTao) | 4 łyżki |
 | Erytrytol | 2-3 łyżki |
 | Ocet Ryżowy | 1 łyżka |
@@ -26,20 +28,23 @@
 
 ## Instrukcje
 
-### 1. Przygotuj Kurczaka (Wybierz jedną metodę)
+### 1. Panierowanie
+Kawałki kurczaka dokładnie obtocz w mące migdałowej.
+
+### 2. Smażenie (Wybierz jedną metodę)
 * **Opcja A: Na głębokim oleju**
   Smaż partiami na złoty kolor (ok. 3-4 minuty).
 * **Opcja B: Air Fryer**
   Spryskaj olejem i piecz w 200°C przez ok. 12–15 minut (wstrząśnij w połowie czasu).
 
-### 2. Połącz Sos
+### 3. Połącz Sos
 Wrzuć wszystkie składniki sosu (Sos Sojowy, Erytrytol, Ocet, Sos Rybny, Chili, Czosnek, Sos Ostrygowy) na dużą patelnię. Włącz średni ogień.
 
-### 3. Redukcja
+### 4. Redukcja
 Mieszaj, aż erytrytol całkowicie się rozpuści. Gotuj przez 2-3 minuty, aż sos zacznie mocno bąbelkować i zgęstnieje tak, by oblepiał łyżkę (lepka konsystencja).
 
-### 4. Glazurowanie
+### 5. Glazurowanie
 Wrzuć usmażone kawałki kurczaka na patelnię. Szybko wymieszaj, aby równomiernie pokryć każdy kawałek lepką glazurą.
 
-### 5. Podawanie
+### 6. Podawanie
 Podawaj od razu, póki chrupiące!
