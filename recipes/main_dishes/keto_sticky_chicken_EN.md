@@ -16,6 +16,7 @@
 | :--- | :--- |
 | Chicken Breast (diced) | 500 g |
 | Almond Flour (for breading) | 50 g |
+| Oil (for coating) | 1 tbsp |
 | Soy Sauce (e.g., TaoTao) | 4 tbsp |
 | Erythritol | 2-3 tbsp |
 | Rice Vinegar | 1 tbsp |
@@ -29,7 +30,7 @@
 ## Instructions
 
 ### 1. Breading
-Thoroughly coat chicken pieces in almond flour.
+First, coat the chicken pieces with oil and toss to coat. Then, thoroughly dredge each piece in almond flour.
 
 ### 2. Fry (Choose one method)
 * **Option A: Deep Fry**

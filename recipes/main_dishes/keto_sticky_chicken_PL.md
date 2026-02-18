@@ -16,6 +16,7 @@
 | :--- | :--- |
 | Pierś z kurczaka (pokrojona) | 500 g |
 | Mąka Migdałowa (do panierowania) | 50 g |
+| Oliwa (do obtoczenia) | 1 łyżka |
 | Sos Sojowy (np. TaoTao) | 4 łyżki |
 | Erytrytol | 2-3 łyżki |
 | Ocet Ryżowy | 1 łyżka |
@@ -29,7 +30,7 @@
 ## Instrukcje
 
 ### 1. Panierowanie
-Kawałki kurczaka dokładnie obtocz w mące migdałowej.
+Najpierw polej kawałki kurczaka oliwą i wymieszaj, aby były lepkie. Następnie dokładnie obtocz je w mące migdałowej.
 
 ### 2. Smażenie (Wybierz jedną metodę)
 * **Opcja A: Na głębokim oleju**
