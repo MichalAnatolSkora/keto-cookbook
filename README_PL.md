@@ -14,7 +14,7 @@ Opanuj techniczne podstawy gotowania keto:
 - (Wkrótce)
 
 ### Obiady
-- (Wkrótce)
+- [Keto Sticky Kurczak](recipes/main_dishes/keto_sticky_chicken_PL.md)
 
 ### Kolacje
 - (Wkrótce)

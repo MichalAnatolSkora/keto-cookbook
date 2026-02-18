@@ -14,7 +14,7 @@ Master the technical foundations of keto cooking:
 - (Coming soon)
 
 ### Lunch
-- (Coming soon)
+- [Keto Sticky Chicken](recipes/main_dishes/keto_sticky_chicken_EN.md)
 
 ### Dinner
 - (Coming soon)
