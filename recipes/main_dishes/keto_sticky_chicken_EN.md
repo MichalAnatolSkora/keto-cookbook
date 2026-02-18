@@ -26,9 +26,11 @@
 
 ## Instructions
 
-### 1. Prepare Chicken
-**Deep Fry**: Fry in batches in hot oil until golden brown (approx. 3-4 minutes).
-**Air Fryer**: Spray with oil and cook at 200°C (400°F) for approx. 12-15 minutes (shake halfway through).
+### 1. Prepare Chicken (Choose one method)
+* **Option A: Deep Fry**
+  Fry in batches in hot oil until golden brown (approx. 3-4 minutes).
+* **Option B: Air Fryer**
+  Spray with oil and cook at 200°C (400°F) for approx. 12-15 minutes (shake halfway through).
 
 ### 2. Combine Sauce
 Combine all sauce ingredients (Soy Sauce, Erythritol, Vinegar, Fish Sauce, Chili, Garlic, Oyster Sauce) in a large pan or skillet. Turn heat to medium.

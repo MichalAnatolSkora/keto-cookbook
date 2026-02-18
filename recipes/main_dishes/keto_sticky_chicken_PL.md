@@ -26,9 +26,11 @@
 
 ## Instrukcje
 
-### 1. Przygotuj Kurczaka
-**Na głębokim oleju**: Smaż partiami na złoty kolor (ok. 3-4 minuty).
-**Air Fryer**: Spryskaj olejem i piecz w 200°C przez ok. 12–15 minut (wstrząśnij w połowie czasu).
+### 1. Przygotuj Kurczaka (Wybierz jedną metodę)
+* **Opcja A: Na głębokim oleju**
+  Smaż partiami na złoty kolor (ok. 3-4 minuty).
+* **Opcja B: Air Fryer**
+  Spryskaj olejem i piecz w 200°C przez ok. 12–15 minut (wstrząśnij w połowie czasu).
 
 ### 2. Połącz Sos
 Wrzuć wszystkie składniki sosu (Sos Sojowy, Erytrytol, Ocet, Sos Rybny, Chili, Czosnek, Sos Ostrygowy) na dużą patelnię. Włącz średni ogień.
