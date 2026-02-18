@@ -1,5 +1,7 @@
 # Keto Sticky Kurczak (Po Koreańsku)
 
+[← Wróć do spisu treści](../../README_PL.md)
+
 **Autor**: `skill_documenting_recipe`
 **Makro na Porcję**:
 **Makro na Porcję**:

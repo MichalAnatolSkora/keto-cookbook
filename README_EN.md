@@ -1,5 +1,8 @@
 # Keto Cookbook
 
+![Chef Portrait](pics/chef_portrait_cropped.png)
+
+
 Welcome to the Keto Cookbook! This repository contains a collection of delicious ketogenic diet recipes.
 
 

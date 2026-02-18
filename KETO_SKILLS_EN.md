@@ -234,8 +234,9 @@ Standardized procedure for committing a new recipe to the repository. This funct
 
 **Implementation Logic**:
 1.  **Initialize**: file `recipes/{category}/{recipe_name}_EN.md` AND `recipes/{category}/{recipe_name}_PL.md`.
-2.  **Validate**: Ensure all text fields have both `_en` and `_pl` values.
-3.  **Format**: Render the recipe into TWO separate files (one English, one Polish).
+2.  **Add Navigation**: Include `[← Back to Recipes](../../README_EN.md)` (or PL equiv) at the top.
+3.  **Validate**: Ensure all text fields have both `_en` and `_pl` values.
+4.  **Format**: Render the recipe into TWO separate files (one English, one Polish).
 4.  **Verify Macros**: accurate calculation of Net Carbs (< 10g/serving).
 
 **Error Handling**:

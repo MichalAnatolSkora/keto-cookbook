@@ -235,8 +235,9 @@ Standaryzowana procedura dodawania nowego przepisu do repozytorium. Ta funkcja z
 
 **Logika Implementacji**:
 1.  **Inicjalizuj**: plik `recipes/{category}/{recipe_name}_EN.md` ORAZ `recipes/{category}/{recipe_name}_PL.md`.
-2.  **Waliduj**: Upewnij się, że wszystkie pola tekstowe mają wartości zarówno `_en`, jak i `_pl`.
-3.  **Formatuj**: Wyrenderuj przepis do DWÓCH oddzielnych plików (jeden Angielski, jeden Polski).
+2.  **Nawigacja**: Dodaj link `[← Wróć do spisu treści](../../README_PL.md)` (lub EN) na górze pliku.
+3.  **Waliduj**: Upewnij się, że wszystkie pola tekstowe mają wartości zarówno `_en`, jak i `_pl`.
+4.  **Formatuj**: Wyrenderuj przepis do DWÓCH oddzielnych plików (jeden Angielski, jeden Polski).
 4.  **Weryfikuj Makro**: dokładne obliczenie Węglowodanów Netto (< 10g/porcję).
 
 **Obsługa Błędów (Error Handling)**:
