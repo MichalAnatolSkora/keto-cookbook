@@ -9,19 +9,11 @@ Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych prz
 
 ## Spis Treści
 
-*Obecnie nie dodano żadnych przepisów. Bądźcie czujni!*
-
-### Śniadania
-- (Wkrótce)
-
 ### Obiady
 *   [Keto Sticky Kurczak (Po Koreańsku)](recipes/main_dishes/keto_sticky_chicken_PL.md)
 
 ### Pieczywo
 *   [Chleb Łubinowy (Keto / TM5)](recipes/breads/keto_lupin_bread_PL.md)
 
-### Kolacje
-- (Wkrótce)
-
-### Przekąski i Desery
-- (Wkrótce)
+### Desery
+*   [Sernik Keto (Bez Spodu)](recipes/desserts/keto_cheesecake_PL.md)

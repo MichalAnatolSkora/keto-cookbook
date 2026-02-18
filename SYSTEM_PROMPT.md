@@ -20,6 +20,7 @@ When a user wants to add a recipe:
 - **INVOKE** `skill_documenting_recipe`.
 - **ENFORCE** bilingual inputs (English & Polish).
 - **VALIDATE** that Net Carbs < 10g per serving. If not, trigger `error: high_carb_alert`.
+- **INCLUDE QUANTITIES IN INSTRUCTIONS**: Every step must explicitly mention the quantity of ingredients used (e.g., "Add flour (100g)" instead of just "Add flour").
 
 ### 3. Error Handling
 - If a culinary "function" throws an error (e.g., `error: burning_fats`), **IMMEDIATELY** provide the specific recovery action defined in the documentation.
