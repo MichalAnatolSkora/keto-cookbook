@@ -26,14 +26,18 @@
 
 ## Instructions
 
-### 1. Combine Sauce
+### 1. Prepare Chicken
+**Deep Fry**: Fry in batches in hot oil until golden brown (approx. 3-4 minutes).
+**Air Fryer**: Spray with oil and cook at 200°C (400°F) for approx. 12-15 minutes (shake halfway through).
+
+### 2. Combine Sauce
 Combine all sauce ingredients (Soy Sauce, Erythritol, Vinegar, Fish Sauce, Chili, Garlic, Oyster Sauce) in a large pan or skillet. Turn heat to medium.
 
-### 2. Reduce
+### 3. Reduce
 Stir constantly until Erythritol dissolves. Simmer for 2-3 minutes until the sauce bubbles vigorously and thickens enough to coat a spoon ("sticky" texture).
 
-### 3. Glaze Chicken
+### 4. Glaze Chicken
 Add the pre-cooked/fried chicken pieces to the pan. Toss quickly to coat every piece evenly with the sticky glaze.
 
-### 4. Serve
+### 5. Serve
 Serve immediately while crispy!

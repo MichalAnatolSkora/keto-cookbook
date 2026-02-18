@@ -26,14 +26,18 @@
 
 ## Instrukcje
 
-### 1. Połącz Sos
+### 1. Przygotuj Kurczaka
+**Na głębokim oleju**: Smaż partiami na złoty kolor (ok. 3-4 minuty).
+**Air Fryer**: Spryskaj olejem i piecz w 200°C przez ok. 12–15 minut (wstrząśnij w połowie czasu).
+
+### 2. Połącz Sos
 Wrzuć wszystkie składniki sosu (Sos Sojowy, Erytrytol, Ocet, Sos Rybny, Chili, Czosnek, Sos Ostrygowy) na dużą patelnię. Włącz średni ogień.
 
-### 2. Redukcja
+### 3. Redukcja
 Mieszaj, aż erytrytol całkowicie się rozpuści. Gotuj przez 2-3 minuty, aż sos zacznie mocno bąbelkować i zgęstnieje tak, by oblepiał łyżkę (lepka konsystencja).
 
-### 3. Glazurowanie
+### 4. Glazurowanie
 Wrzuć usmażone kawałki kurczaka na patelnię. Szybko wymieszaj, aby równomiernie pokryć każdy kawałek lepką glazurą.
 
-### 4. Podawanie
+### 5. Podawanie
 Podawaj od razu, póki chrupiące!
