@@ -1,6 +1,6 @@
 # Keto Cookbook / Książka Kucharska Keto
 
-![Chef Portrait](pics/chef_portrait_cropped.png)
+![Chef Portrait](pics/chef_portrait_keto.png)
 
 Please select your language / Proszę wybrać język:
 

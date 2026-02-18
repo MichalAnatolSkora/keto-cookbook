@@ -1,6 +1,6 @@
 # Książka Kucharska Keto
 
-![Chef Portrait](pics/chef_portrait_cropped.png)
+
 
 
 Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych przepisów diety ketogenicznej.
