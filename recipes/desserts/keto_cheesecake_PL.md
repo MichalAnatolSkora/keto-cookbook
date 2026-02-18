@@ -27,7 +27,7 @@
 ## Instrukcje
 
 ### 1. Miksowanie Masła
-Utrzyj miękkie masło (100g) z erytrytolem (150-200g) na puszystą masę.
+Utrzyj miękkie masło (100g) z erytrytolem w pudrze (150-200g) na puszystą masę.
 
 ### 2. Dodawanie Jajek
 Dodawaj po jednym jajku (łącznie 5 szt.), cały czas miksując na małych obrotach.
