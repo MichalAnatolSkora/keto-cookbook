@@ -30,11 +30,11 @@
 ## Instructions (Thermomix TM5)
 
 ### 1. Dry Ingredients
-Place all dry ingredients (flour, psyllium, baking powder, salt) in the mixing bowl.
+Place all dry ingredients in the mixing bowl: flour (100g), psyllium (40g), baking powder (2 tsp), and salt (0.5 tsp).
 *   **Mix**: 10 sec / speed 6.
 
 ### 2. Wet Ingredients
-Add egg whites (or whole eggs), vinegar, and hot water.
+Add egg whites (3 pcs or 2 whole), vinegar (2 tbsp), and hot water (250g).
 
 ### 3. Knead
 Knead the dough.

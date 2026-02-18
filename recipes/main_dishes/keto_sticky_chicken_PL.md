@@ -34,7 +34,7 @@
 ## Instrukcje
 
 ### 1. Panierowanie
-Polej mięso olejem i wymieszaj, aby każdy kawałek był pokryty tłuszczem. Następnie dokładnie obtocz je w mące migdałowej.
+Polej mięso (500g) olejem i wymieszaj, aby każdy kawałek był pokryty tłuszczem. Następnie dokładnie obtocz je w mące migdałowej (3 garści / 100g).
 
 ### 2. Smażenie (Wybierz jedną metodę)
 * **Opcja A: Na głębokim oleju**
@@ -43,7 +43,15 @@ Polej mięso olejem i wymieszaj, aby każdy kawałek był pokryty tłuszczem. Na
   Spryskaj olejem i piecz w 200°C przez ok. 12–15 minut (wstrząśnij w połowie czasu).
 
 ### 3. Połącz Sos
-Wrzuć wszystkie składniki sosu (Sos Sojowy, Erytrytol, Ocet, Sos Rybny, Chili, Czosnek, Sos Ostrygowy) na dużą patelnię. Włącz średni ogień.
+Wrzuć wszystkie składniki sosu na dużą patelnię:
+*   Sos Sojowy (6 łyżek)
+*   Erytrytol (3-4.5 łyżki)
+*   Ocet Ryżowy (1.5 łyżki)
+*   Sos Rybny (1.5 łyżeczki)
+*   Płatki Chili (1.5 łyżeczki)
+*   Czosnek granulowany (1.5 łyżeczki)
+*   Sos Ostrygowy (0.75 łyżeczki - opcjonalnie)
+Włącz średni ogień.
 
 ### 4. Redukcja
 Mieszaj, aż erytrytol całkowicie się rozpuści. Gotuj przez 2-3 minuty, aż sos zacznie mocno bąbelkować i zgęstnieje tak, by oblepiał łyżkę (lepka konsystencja).

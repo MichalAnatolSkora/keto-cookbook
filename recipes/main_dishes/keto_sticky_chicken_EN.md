@@ -34,7 +34,7 @@
 ## Instructions
 
 ### 1. Breading
-Pour oil over the chicken pieces and toss to coat evenly. Then, thoroughly dredge each piece in almond flour.
+Pour oil over the chicken pieces (500g) and toss to coat evenly. Then, thoroughly dredge each piece in almond flour (3 handfuls / 100g).
 
 ### 2. Fry (Choose one method)
 * **Option A: Deep Fry**
@@ -43,7 +43,15 @@ Pour oil over the chicken pieces and toss to coat evenly. Then, thoroughly dredg
   Spray with oil and cook at 200°C (400°F) for approx. 12-15 minutes (shake halfway through).
 
 ### 3. Combine Sauce
-Combine all sauce ingredients (Soy Sauce, Erythritol, Vinegar, Fish Sauce, Chili, Garlic, Oyster Sauce) in a large pan or skillet. Turn heat to medium.
+Combine all sauce ingredients in a large pan or skillet:
+*   Soy Sauce (6 tbsp)
+*   Erythritol (3-4.5 tbsp)
+*   Rice Vinegar (1.5 tbsp)
+*   Fish Sauce (1.5 tsp)
+*   Chili Flakes (1.5 tsp)
+*   Garlic Powder (1.5 tsp)
+*   Oyster Sauce (0.75 tsp - optional)
+Turn heat to medium.
 
 ### 4. Reduce
 Stir constantly until Erythritol dissolves. Simmer for 2-3 minutes until the sauce bubbles vigorously and thickens enough to coat a spoon ("sticky" texture).

@@ -30,11 +30,11 @@
 ## Instrukcje (Thermomix TM5)
 
 ### 1. Suche Składniki
-Do naczynia miksującego wsyp wszystkie suche składniki (mąkę, babkę, proszek, sól).
+Do naczynia miksującego wsyp wszystkie suche składniki: mąkę (100g), babkę (40g), proszek (2 łyżeczki) i sól (0.5 łyżeczki).
 *   **Wymieszaj**: 10 s / obr. 6.
 
 ### 2. Mokre Składniki
-Dodaj białka jaj (lub całe jajka), ocet oraz gorącą wodę.
+Dodaj białka jaj (3 szt. lub 2 całe), ocet (2 łyżki) oraz gorącą wodę (250g).
 
 ### 3. Wyrabianie
 Wyrabiaj ciasto.
