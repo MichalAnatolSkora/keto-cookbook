@@ -46,6 +46,12 @@ Combine all sauce ingredients (Soy Sauce, Erythritol, Vinegar, Fish Sauce, Chili
 ### 4. Reduce
 Stir constantly until Erythritol dissolves. Simmer for 2-3 minutes until the sauce bubbles vigorously and thickens enough to coat a spoon ("sticky" texture).
 
+> **How to tell when it's ready?**
+> *   **Bubbles**: The sauce should be foaming vigorously across the entire surface.
+> *   **Consistency**: When you run a spoon across the bottom and the sauce "parts" for a second, leaving a trail – remove from heat immediately.
+>
+> **Note (Keto)**: Erythritol hardens "like a rock" upon cooling faster than sugar. If you make a thick caramel in the pan, you will end up with hard candies on your chicken. It is better for the sauce to be slightly thinner in the pan – it will thicken as it coats the cooler chicken.
+
 ### 5. Glaze Chicken
 Add the pre-cooked/fried chicken pieces to the pan. Toss quickly to coat every piece evenly with the sticky glaze.
 

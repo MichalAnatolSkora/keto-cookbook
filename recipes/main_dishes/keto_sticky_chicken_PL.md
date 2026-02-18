@@ -46,6 +46,12 @@ Wrzuć wszystkie składniki sosu (Sos Sojowy, Erytrytol, Ocet, Sos Rybny, Chili,
 ### 4. Redukcja
 Mieszaj, aż erytrytol całkowicie się rozpuści. Gotuj przez 2-3 minuty, aż sos zacznie mocno bąbelkować i zgęstnieje tak, by oblepiał łyżkę (lepka konsystencja).
 
+> **Jak poznać, że to już?**
+> *   **Bąbelki**: Sos powinien mocno się pienić na całej powierzchni.
+> *   **Konsystencja**: Gdy przejedziesz łyżką po dnie i sos "rozstępuje się" na sekundę, zostawiając ślad – natychmiast zdejmij z ognia.
+>
+> **Uwaga (Keto)**: Erytrytol po ostygnięciu twardnieje "na kamień" szybciej niż cukier. Jeśli na patelni zrobisz gęsty karmel, to na kurczaku będziesz mieć twarde cukierki. Lepiej, żeby sos był minimalnie rzadszy na patelni – zgęstnieje, gdy oblepi chłodniejszego kurczaka.
+
 ### 5. Glazurowanie
 Wrzuć usmażone kawałki kurczaka na patelnię. Szybko wymieszaj, aby równomiernie pokryć każdy kawałek lepką glazurą.
 
