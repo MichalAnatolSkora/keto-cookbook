@@ -2,9 +2,7 @@
 
 Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych przepisów diety ketogenicznej.
 
-## Kluczowe Umiejętności
-Opanuj techniczne podstawy gotowania keto:
-- [Dokumentacja Umiejętności Keto](KETO_SKILLS_PL.md) - Definicje Smażenia (Searing), Deglazowania (Deglazing) i Emulgowania (Emulsifying).
+
 
 ## Spis Treści
 
