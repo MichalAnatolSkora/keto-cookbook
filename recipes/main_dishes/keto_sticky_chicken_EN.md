@@ -4,10 +4,11 @@
 **Macros per Serving**:
 **Macros per Serving**:
 **Macros per Serving**:
-- **Net Carbs**: 9g
-- **Fat**: 34g (+ frying oil)
+**Macros per Serving**:
+- **Net Carbs**: 10g
+- **Fat**: 45g (+ frying oil)
 - **Protein**: 70g
-- **Calories**: ~550 kcal
+- **Calories**: ~650 kcal
 
 ---
 
@@ -17,21 +18,21 @@
 | :--- | :--- |
 | Chicken Breast (diced) | 500 g |
 | Almond Flour (for breading) | 3 handfuls (approx. 100 g) |
-| Oil (for coating) | 1 tbsp |
-| Soy Sauce (e.g., TaoTao) | 4 tbsp |
-| Erythritol | 2-3 tbsp |
-| Rice Vinegar | 1 tbsp |
-| Fish Sauce | 1 tsp |
-| Chili Flakes | 1 tsp |
-| Garlic (minced) | 2 cloves |
-| Oyster Sauce (Optional) | 0.5 tsp |
+| Oil | As needed for soaking |
+| Soy Sauce (e.g., TaoTao) | 6 tbsp |
+| Erythritol | 3-4.5 tbsp |
+| Rice Vinegar | 1.5 tbsp |
+| Fish Sauce | 1.5 tsp |
+| Chili Flakes | 1.5 tsp |
+| Garlic Powder | 1.5 tsp |
+| Oyster Sauce (Optional) | 0.75 tsp |
 
 ---
 
 ## Instructions
 
 ### 1. Breading
-First, coat the chicken pieces with oil and toss to coat. Then, thoroughly dredge each piece in almond flour.
+Pour oil over the chicken pieces and toss to coat evenly. Then, thoroughly dredge each piece in almond flour.
 
 ### 2. Fry (Choose one method)
 * **Option A: Deep Fry**

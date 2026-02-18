@@ -4,10 +4,11 @@
 **Makro na Porcję**:
 **Makro na Porcję**:
 **Makro na Porcję**:
-- **Węglowodany Netto**: 9g
-- **Tłuszcz**: 34g (+ tłuszcz ze smażenia)
+**Makro na Porcję**:
+- **Węglowodany Netto**: 10g
+- **Tłuszcz**: 45g (+ tłuszcz ze smażenia)
 - **Białko**: 70g
-- **Kalorie**: ~550 kcal
+- **Kalorie**: ~650 kcal
 
 ---
 
@@ -17,21 +18,21 @@
 | :--- | :--- |
 | Pierś z kurczaka (pokrojona) | 500 g |
 | Mąka Migdałowa (do panierowania) | 3 garści (ok. 100 g) |
-| Oliwa (do obtoczenia) | 1 łyżka |
-| Sos Sojowy (np. TaoTao) | 4 łyżki |
-| Erytrytol | 2-3 łyżki |
-| Ocet Ryżowy | 1 łyżka |
-| Sos Rybny | 1 łyżeczka |
-| Płatki Chili | 1 łyżeczka |
-| Czosnek (przeciśnięty) | 2 ząbki |
-| Sos Ostrygowy (Opcjonalnie) | 0.5 łyżeczki |
+| Olej / Oliwa | Do zamoczenia mięsa |
+| Sos Sojowy (np. TaoTao) | 6 łyżek |
+| Erytrytol | 3-4.5 łyżki |
+| Ocet Ryżowy | 1.5 łyżki |
+| Sos Rybny | 1.5 łyżeczki |
+| Płatki Chili | 1.5 łyżeczki |
+| Czosnek granulowany | 1.5 łyżeczki |
+| Sos Ostrygowy (Opcjonalnie) | 0.75 łyżeczki |
 
 ---
 
 ## Instrukcje
 
 ### 1. Panierowanie
-Najpierw polej kawałki kurczaka oliwą i wymieszaj, aby były lepkie. Następnie dokładnie obtocz je w mące migdałowej.
+Polej mięso olejem i wymieszaj, aby każdy kawałek był pokryty tłuszczem. Następnie dokładnie obtocz je w mące migdałowej.
 
 ### 2. Smażenie (Wybierz jedną metodę)
 * **Opcja A: Na głębokim oleju**
