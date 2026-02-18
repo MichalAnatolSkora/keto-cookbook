@@ -12,7 +12,7 @@ Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych prz
 - (Wkrótce)
 
 ### Obiady
-- [Keto Sticky Kurczak](recipes/main_dishes/keto_sticky_chicken_PL.md)
+- [Keto Sticky Kurczak (Po Koreańsku)](recipes/main_dishes/keto_sticky_chicken_PL.md)
 
 ### Kolacje
 - (Wkrótce)

@@ -1,4 +1,4 @@
-# Keto Sticky Kurczak
+# Keto Sticky Kurczak (Po Koreańsku)
 
 **Autor**: `skill_documenting_recipe`
 **Makro na Porcję**:

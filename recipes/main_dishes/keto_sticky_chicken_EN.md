@@ -1,4 +1,4 @@
-# Keto Sticky Chicken
+# Keto Sticky Chicken (Korean Style)
 
 **Author**: `skill_documenting_recipe`
 **Macros per Serving**:
