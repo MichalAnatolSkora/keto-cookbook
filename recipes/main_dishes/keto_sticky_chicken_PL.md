@@ -3,10 +3,11 @@
 **Autor**: `skill_documenting_recipe`
 **Makro na Porcję**:
 **Makro na Porcję**:
-- **Węglowodany Netto**: 6.5g
-- **Tłuszcz**: 22g (+ tłuszcz ze smażenia)
-- **Białko**: 63g
-- **Kalorie**: ~450 kcal
+**Makro na Porcję**:
+- **Węglowodany Netto**: 9g
+- **Tłuszcz**: 34g (+ tłuszcz ze smażenia)
+- **Białko**: 70g
+- **Kalorie**: ~550 kcal
 
 ---
 
@@ -15,7 +16,7 @@
 | Składnik | Ilość |
 | :--- | :--- |
 | Pierś z kurczaka (pokrojona) | 500 g |
-| Mąka Migdałowa (do panierowania) | 50 g |
+| Mąka Migdałowa (do panierowania) | 3 garści (ok. 100 g) |
 | Oliwa (do obtoczenia) | 1 łyżka |
 | Sos Sojowy (np. TaoTao) | 4 łyżki |
 | Erytrytol | 2-3 łyżki |

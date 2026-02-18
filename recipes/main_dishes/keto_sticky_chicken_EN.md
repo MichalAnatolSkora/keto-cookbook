@@ -3,10 +3,11 @@
 **Author**: `skill_documenting_recipe`
 **Macros per Serving**:
 **Macros per Serving**:
-- **Net Carbs**: 6.5g
-- **Fat**: 22g (+ frying oil)
-- **Protein**: 63g
-- **Calories**: ~450 kcal
+**Macros per Serving**:
+- **Net Carbs**: 9g
+- **Fat**: 34g (+ frying oil)
+- **Protein**: 70g
+- **Calories**: ~550 kcal
 
 ---
 
@@ -15,7 +16,7 @@
 | Ingredient | Quantity |
 | :--- | :--- |
 | Chicken Breast (diced) | 500 g |
-| Almond Flour (for breading) | 50 g |
+| Almond Flour (for breading) | 3 handfuls (approx. 100 g) |
 | Oil (for coating) | 1 tbsp |
 | Soy Sauce (e.g., TaoTao) | 4 tbsp |
 | Erythritol | 2-3 tbsp |
