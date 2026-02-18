@@ -32,6 +32,18 @@ Wykonywanie obróbki cieplnej powierzchni białka w wysokiej temperaturze w celu
 }
 ```
 
+**Schemat Wyjściowy (Output Schema)**:
+```json
+{
+  "internal_temp_c": "integer",
+  "crust_quality": {
+    "type": "string",
+    "enum": ["golden_brown", "dark_brown", "charred", "pale"]
+  },
+  "success": "boolean"
+}
+```
+
 **Logika Implementacji**:
 1.  **Rozgrzej**: Zainicjuj patelnię do `surface_temp`. Zweryfikuj temperaturę termometrem IR lub testem kropli wody (efekt Leidenfrosta).
 2.  **Osusz**: Usuń wilgoć z powierzchni białka ręcznikiem papierowym. Wilgoć hamuje reakcję Maillarda.
@@ -75,6 +87,18 @@ Odzyskiwanie skarmelizowanych białek (fond) przywartych do patelni po smażeniu
     "description": "Ilość płynu do dodania.",
     "minimum": 50
   }
+}
+```
+
+**Schemat Wyjściowy (Output Schema)**:
+```json
+{
+  "sauce_consistency": {
+    "type": "string",
+    "enum": ["nappe", "watery", "syrup"]
+  },
+  "flavor_profile": "string",
+  "success": "boolean"
 }
 ```
 
@@ -122,6 +146,18 @@ Wymuszanie stabilnej zawiesiny koloidalnej dwóch niemieszających się cieczy (
     "description": "Krytyczna temperatura dla stabilności.",
     "maximum": 60
   }
+}
+```
+
+**Schemat Wyjściowy (Output Schema)**:
+```json
+{
+  "emulsion_stability": {
+    "type": "string",
+    "enum": ["stable", "broken", "separated"]
+  },
+  "viscosity": "string",
+  "success": "boolean"
 }
 ```
 
@@ -182,6 +218,18 @@ Standaryzowana procedura dodawania nowego przepisu do repozytorium. Ta funkcja z
     "protein_g": "integer",
     "calories_kcal": "integer"
   }
+}
+```
+
+**Schemat Wyjściowy (Output Schema)**:
+```json
+{
+  "file_path": "string",
+  "validation_status": {
+    "type": "string",
+    "enum": ["valid", "invalid_macros", "missing_translation"]
+  },
+  "commit_hash": "string"
 }
 ```
 

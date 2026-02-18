@@ -32,6 +32,18 @@ Performs high-heat surface cooking of protein to trigger the Maillard reaction. 
 }
 ```
 
+**Output Schema**:
+```json
+{
+  "internal_temp_c": "integer",
+  "crust_quality": {
+    "type": "string",
+    "enum": ["golden_brown", "dark_brown", "charred", "pale"]
+  },
+  "success": "boolean"
+}
+```
+
 **Implementation Logic**:
 1.  **Preheat**: Initialize pan to `surface_temp`. Verify temp using IR thermometer or water droplet test (Leidenfrost effect).
 2.  **Dry**: Remove surface moisture from protein using paper towels. Moisture inhibits Maillard reaction.
@@ -75,6 +87,18 @@ Retrieves caramelized proteins (fond) adhered to the pan after searing. This fun
     "description": "Amount of liquid to add.",
     "minimum": 50
   }
+}
+```
+
+**Output Schema**:
+```json
+{
+  "sauce_consistency": {
+    "type": "string",
+    "enum": ["nappe", "watery", "syrup"]
+  },
+  "flavor_profile": "string",
+  "success": "boolean"
 }
 ```
 
@@ -122,6 +146,18 @@ Forces two immiscible liquids (fat and water/acid) into a stable colloidal suspe
     "description": "Critical temperature for stability.",
     "maximum": 60
   }
+}
+```
+
+**Output Schema**:
+```json
+{
+  "emulsion_stability": {
+    "type": "string",
+    "enum": ["stable", "broken", "separated"]
+  },
+  "viscosity": "string",
+  "success": "boolean"
 }
 ```
 
@@ -181,6 +217,18 @@ Standardized procedure for committing a new recipe to the repository. This funct
     "protein_g": "integer",
     "calories_kcal": "integer"
   }
+}
+```
+
+**Output Schema**:
+```json
+{
+  "file_path": "string",
+  "validation_status": {
+    "type": "string",
+    "enum": ["valid", "invalid_macros", "missing_translation"]
+  },
+  "commit_hash": "string"
 }
 ```
 
