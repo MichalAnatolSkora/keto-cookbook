@@ -9,6 +9,9 @@ Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych prz
 
 ## Spis Treści
 
+### Śniadania
+*   [Keto Naleśniki ze Śmietanką (TM5)](recipes/breakfasts/keto_pancakes_cream_PL.md)
+
 ### Obiady
 *   [Keto Sticky Kurczak (Po Koreańsku)](recipes/main_dishes/keto_sticky_chicken_PL.md)
 

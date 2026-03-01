@@ -9,6 +9,9 @@ Welcome to the Keto Cookbook! This repository contains a collection of delicious
 
 ## Table of Contents
 
+### Breakfasts
+*   [Keto Pancakes with Cream (TM5)](recipes/breakfasts/keto_pancakes_cream_EN.md)
+
 ### Lunch
 *   [Keto Sticky Chicken (Korean Style)](recipes/main_dishes/keto_sticky_chicken_EN.md)
 
