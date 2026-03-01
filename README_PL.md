@@ -20,3 +20,4 @@ Witamy w Książce Kucharskiej Keto! To repozytorium zawiera zbiór pysznych prz
 
 ### Desery
 *   [Sernik Keto (Bez Spodu)](recipes/desserts/keto_cheesecake_PL.md)
+*   [Keto Lody Truskawkowe (TM5)](recipes/desserts/keto_strawberry_ice_cream_PL.md)

@@ -20,3 +20,4 @@ Welcome to the Keto Cookbook! This repository contains a collection of delicious
 
 ### Desserts
 *   [Keto Cheesecake (Crustless)](recipes/desserts/keto_cheesecake_EN.md)
+*   [Keto Strawberry Ice Cream (TM5)](recipes/desserts/keto_strawberry_ice_cream_EN.md)
