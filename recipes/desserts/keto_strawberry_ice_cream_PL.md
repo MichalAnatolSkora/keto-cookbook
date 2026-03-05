@@ -5,11 +5,11 @@
 **Porcje**: ok. 4 porcje
 
 **Makro na całą porcję**:
-- **Węglowodany Netto**: ~32g
-- **Tłuszcz**: ~65g
-- **Białko**: ~15g
-- **Kalorie**: ~780 kcal
-*(Makro na 1 porcję: W: 8g, T: 16g, B: 4g, Kcal: 195)*
+- **Węglowodany Netto**: ~32g *(z mascarpone: ~35g)*
+- **Tłuszcz**: ~65g *(z mascarpone: ~104g)*
+- **Białko**: ~15g *(z mascarpone: ~13g)*
+- **Kalorie**: ~780 kcal *(z mascarpone: ~1140 kcal)*
+*(Makro na 1 porcję: W: 8g, T: 16g, B: 4g, Kcal: 195 | z mascarpone: W: 8,7g, T: 26g, B: 3,2g, Kcal: 285)*
 
 ---
 
@@ -18,7 +18,7 @@
 | Składnik | Ilość |
 | :--- | :--- |
 | Mrożone truskawki | 450 g |
-| Serek kremowy (np. Philadelphia) | 150 g |
+| Serek kremowy (np. Philadelphia)<br>*(LUB: serek Mascarpone)* | 150 g<br>*(LUB: 250 g - pomiń wtedy śmietankę)* |
 | Śmietanka 30% | 75 g |
 | Ekstrakt waniliowy | 1,5 łyżeczki |
 | Sok z cytryny | 1,5 łyżeczki |
@@ -37,7 +37,7 @@ Rozdrobnij: **15-20 s / obr. 8**.
 Zdejmij pokrywę i za pomocą kopystki zgarnij rozdrobnione truskawki ze ścianek na dno naczynia miksującego.
 
 ### 3. Mieszanie bazy
-Dodaj **150 g serka Philadelphia**, **75 g śmietanki 30%** oraz opcjonalnie **keto słodzik** (np. erytrytol, ok. 20-30 g).
+Dodaj **150 g serka Philadelphia i 75 g śmietanki 30%** (lub zamiast nich **250 g serka mascarpone**) oraz opcjonalnie **keto słodzik** (np. erytrytol, ok. 20-30 g).
 Wymieszaj pomagając sobie kopystką z góry: **20-30 s / obr. 4**.
 
 Gotowe! Przełóż od razu do pucharków i posyp wiórkami kokosowymi. Smacznego!
