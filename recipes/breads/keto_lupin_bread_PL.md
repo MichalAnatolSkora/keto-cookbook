@@ -20,6 +20,8 @@
 | Słonecznik (łuskany) | 50 g |
 | Proszek do pieczenia | 3 łyżeczki |
 | Sól (lub przyprawa do chleba) | 0.75 łyżeczki |
+| Inulina | 15 g (ok. 1.5 łyżki) |
+| Oliwa z oliwek | 30 g (ok. 2 łyżki) |
 | Jajka (całe) | 3 szt. (lub 4-5 białek) |
 | Gorąca woda (nie wrzątek) | 375 g |
 | Ocet jabłkowy | 3 łyżki |
@@ -31,15 +33,15 @@
 ## Instrukcje (Thermomix TM5)
 
 ### 1. Suche Składniki
-Do naczynia miksującego wsyp wszystkie suche składniki: mąkę (150g), babkę (60g), słonecznik (50g), proszek (3 łyżeczki) i sól (0.75 łyżeczki).
+Do naczynia miksującego wsyp wszystkie suche składniki: mąkę (150g), babkę (60g), słonecznik (50g), inulinę (15g), proszek (3 łyżeczki) i sól (0.75 łyżeczki).
 *   **Wymieszaj**: 10 s / obr. 6.
 
 ### 2. Mokre Składniki
-Dodaj jajka (3 szt.), ocet (3 łyżki) oraz gorącą wodę (375g).
+Dodaj jajka (3 szt.), oliwę (30g), ocet (3 łyżki) oraz gorącą wodę (375g).
 
 ### 3. Wyrabianie
 Wyrabiaj ciasto.
-*   **Czas**: 1 min 30 s
+*   **Czas**: 2 min 30 s
 *   **Tryb**: Interwał (kłos)
 
 ### 4. Spoczynek

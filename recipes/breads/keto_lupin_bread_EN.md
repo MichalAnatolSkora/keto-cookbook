@@ -20,6 +20,8 @@
 | Sunflower Seeds (shelled) | 50 g |
 | Baking Powder | 3 tsp |
 | Salt (or bread seasoning) | 0.75 tsp |
+| Inulin | 15 g (~1.5 tbsp) |
+| Olive Oil | 30 g (~2 tbsp) |
 | Eggs (whole) | 3 pcs (or 4-5 egg whites) |
 | Hot Water (not boiling) | 375 g |
 | Apple Cider Vinegar | 3 tbsp |
@@ -31,15 +33,15 @@
 ## Instructions (Thermomix TM5)
 
 ### 1. Dry Ingredients
-Place all dry ingredients in the mixing bowl: flour (150g), psyllium (60g), sunflower seeds (50g), baking powder (3 tsp), and salt (0.75 tsp).
+Place all dry ingredients in the mixing bowl: flour (150g), psyllium (60g), sunflower seeds (50g), inulin (15g), baking powder (3 tsp), and salt (0.75 tsp).
 *   **Mix**: 10 sec / speed 6.
 
 ### 2. Wet Ingredients
-Add eggs (3 pcs), vinegar (3 tbsp), and hot water (375g).
+Add eggs (3 pcs), olive oil (30g), vinegar (3 tbsp), and hot water (375g).
 
 ### 3. Knead
 Knead the dough.
-*   **Time**: 1 min 30 sec
+*   **Time**: 2 min 30 sec
 *   **Mode**: Knead (Interval)
 
 ### 4. Rest
