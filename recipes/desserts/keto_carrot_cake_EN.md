@@ -23,7 +23,7 @@
 | Eggs (size L) | 3 pcs |
 | Walnuts | 50 g |
 | Cinnamon | 1.5 tsp |
-| Baking powder | 1 tsp |
+| Baking powder | 2 tsp |
 | Salt | Pinch |
 | Inulin (optional, for moisture)| 1 tbsp |
 
@@ -62,7 +62,7 @@ Add **3 eggs** and the previously prepared **130g of ground erythritol** to the 
 *   **Whipping**: 3 min / speed 4
 
 ### 6. Combining ingredients
-Remove the butterfly whisk. Add **80g of soft butter**, **200g of almond flour**, **1.5 tsp of cinnamon**, **1 tsp of baking powder**, **a pinch of salt**, and optionally inulin.
+Remove the butterfly whisk. Add **80g of soft butter**, **200g of almond flour**, **1.5 tsp of cinnamon**, **2 tsp of baking powder**, **a pinch of salt**, and optionally inulin.
 *   **Mixing**: 20 sec / speed 4
 
 ### 7. Adding walnuts

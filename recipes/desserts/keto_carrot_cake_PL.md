@@ -23,7 +23,7 @@
 | Jajka (rozmiar L) | 3 szt. |
 | Orzechy włoskie | 50 g |
 | Cynamon | 1,5 łyżeczki |
-| Proszek do pieczenia | 1 łyżeczka |
+| Proszek do pieczenia | 2 łyżeczki |
 | Sól | Szczypta |
 | Inulina (opcjonalnie, dla wilgotności)| 1 łyżka |
 
@@ -62,7 +62,7 @@ Do marchewki dodaj **3 jajka** oraz przygotowane wcześniej **130g zmielonego er
 *   **Ubijanie**: 3 min / obr. 4
 
 ### 6. Łączenie składników
-Zdejmij motylek. Do naczynia dodaj **80g miękkiego masła**, **200g mąki migdałowej**, **1,5 łyżeczki cynamonu**, **1 łyżeczkę proszku do pieczenia**, **szczyptę soli** i opcjonalnie inulinę.
+Zdejmij motylek. Do naczynia dodaj **80g miękkiego masła**, **200g mąki migdałowej**, **1,5 łyżeczki cynamonu**, **2 łyżeczki proszku do pieczenia**, **szczyptę soli** i opcjonalnie inulinę.
 *   **Mieszanie**: 20 s / obr. 4
 
 ### 7. Dodanie orzechów
