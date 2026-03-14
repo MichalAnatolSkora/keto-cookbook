@@ -18,7 +18,7 @@
 | :--- | :--- |
 | Carrots (peeled, in pieces) | 200 g |
 | Almond flour | 200 g |
-| Erythritol (already added to the dough) | 130 g |
+| Erythritol | 130 g |
 | Butter (soft) | 80 g |
 | Eggs (size L) | 3 pcs |
 | Walnuts | 50 g |
@@ -32,7 +32,7 @@
 | :--- | :--- |
 | Cream cheese (Philadelphia/Mascarpone, cold)| 200 g |
 | Butter (soft) | 40 g |
-| Erythritol (powdered) | 30 g |
+| Erythritol | 30 g |
 | Vanilla extract | 1 tsp |
 
 ---
@@ -42,10 +42,10 @@
 ### 1. Preparation
 Preheat the oven to **180°C**. Line a springform pan (approx. 20 cm) with baking paper.
 
-### 2. Grinding erythritol for cream
-Pour **30g of erythritol** into a clean and dry mixing bowl.
+### 2. Grinding erythritol
+Pour the entire **160g of erythritol** (130g for the cake + 30g for the cream) into a clean and dry mixing bowl.
 *   **Grinding**: 10 sec / speed 10
-Transfer to a bowl and set aside.
+Transfer to a bowl and separate: set aside **30g** in a separate bowl for the cream, and keep the remaining **130g** for the cake.
 
 ### 3. Chopping walnuts
 Add **50g of walnuts** to the mixing bowl.
@@ -58,7 +58,7 @@ Add **200g of carrots** to the mixing bowl.
 If the carrots are very juicy, squeeze out the excess juice gently with your hands. Leave the carrots in the mixing bowl.
 
 ### 5. Whipping eggs with erythritol
-Add **3 eggs** and **130g of erythritol** to the carrots. Insert the butterfly whisk.
+Add **3 eggs** and the previously prepared **130g of ground erythritol** to the carrots. Insert the butterfly whisk.
 *   **Whipping**: 3 min / speed 4
 
 ### 6. Combining ingredients
@@ -76,7 +76,7 @@ Transfer the batter to the prepared pan.
 Cool completely before applying the cream.
 
 ### 9. Preparing the cream
-Pour the previously prepared **powdered erythritol (30g)** and **40g of soft butter** into a clean and dry mixing bowl.
+Pour the previously set aside **30g of ground erythritol** and **40g of soft butter** into a clean and dry mixing bowl.
 *   **Mixing**: 1 min / speed 3 (until a fluffy mass is formed)
 Then add **200g of cold cream cheese** and **1 tsp of vanilla extract**.
 *   **Mixing**: 20 sec / speed 3

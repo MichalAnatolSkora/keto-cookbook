@@ -18,7 +18,7 @@
 | :--- | :--- |
 | Marchewka (obrana, w kawałkach) | 200 g |
 | Mąka migdałowa | 200 g |
-| Erytrytol (już dodany do ciasta) | 130 g |
+| Erytrytol | 130 g |
 | Masło (miękkie) | 80 g |
 | Jajka (rozmiar L) | 3 szt. |
 | Orzechy włoskie | 50 g |
@@ -32,7 +32,7 @@
 | :--- | :--- |
 | Serek (Philadelphia/Mascarpone, zimny)| 200 g |
 | Masło (miękkie) | 40 g |
-| Erytrytol (puder) | 30 g |
+| Erytrytol | 30 g |
 | Ekstrakt z wanilii | 1 łyżeczka |
 
 ---
@@ -42,10 +42,10 @@
 ### 1. Przygotowanie
 Nagrzej piekarnik do **180°C**. Tortownicę (ok. 20 cm) wyłóż papierem do pieczenia.
 
-### 2. Mielenie erytrytolu na krem
-Do czystego i suchego naczynia wsyp **30g erytrytolu**.
+### 2. Mielenie erytrytolu
+Do czystego i suchego naczynia wsyp całe **160g erytrytolu** (130g na ciasto + 30g na krem).
 *   **Mielenie**: 10 s / obr. 10
-Przesyp do miseczki i odstaw.
+Przesyp do miseczki i rozdziel: **30g** odłóż w osobnej miseczce na krem, a pozostałe **130g** zostaw do ciasta.
 
 ### 3. Szatkowanie orzechów
 Do naczynia wrzuć **50g orzechów włoskich**.
@@ -58,7 +58,7 @@ Włóż **200g marchewki**.
 Jeśli marchewka jest bardzo soczysta, odciśnij ją lekko dłońmi z nadmiaru soku. Zostaw marchewkę w naczyniu.
 
 ### 5. Ubijanie jajek z erytrytolem
-Do marchewki dodaj **3 jajka** oraz **130g erytrytolu**. Załóż motylek.
+Do marchewki dodaj **3 jajka** oraz przygotowane wcześniej **130g zmielonego erytrytolu**. Załóż motylek.
 *   **Ubijanie**: 3 min / obr. 4
 
 ### 6. Łączenie składników
@@ -76,7 +76,7 @@ Przelej masę do formy.
 Wystudź całkowicie przed nakładaniem kremu.
 
 ### 9. Przygotowanie kremu
-Do umytego i suchego naczynia wsyp przygotowany wcześniej puder z **30g erytrytolu** oraz dodaj **40g miękkiego masła**.
+Do umytego i suchego naczynia wsyp odłożone wcześniej **30g zmielonego erytrytolu** oraz dodaj **40g miękkiego masła**.
 *   **Ucieranie**: 1 min / obr. 3 (aż powstanie puszysta masa)
 Następnie dodaj **200g zimnego serka** i **1 łyżeczkę wanilii**.
 *   **Mieszanie**: 20 s / obr. 3
